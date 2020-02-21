@@ -2,9 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
+VRProject_EmergTecs//[Ll]ibrary/
 VRProject_EmergTecs/[Tt]emp/
-/[Oo]bj/
+VRProject_EmergTecs//[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
